@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB-INF/locales/messages_en.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/locales/messages_ru.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/locales/messages_ua.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/views/experiment.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/review.jsp=UTF-8
